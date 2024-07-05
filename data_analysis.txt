@@ -1,0 +1,8 @@
+1.	Load and explore the dataset.
+2.	Clean the dataset and prepare it by handling missing values and encoding categorical variables.
+3.	Split the dataset into a training set and a test set.
+4.	Train a regression model on the training data.
+5.	Evaluate the model's performance on the test data.
+6.	Perform hyperparameter tuning to improve the model if necessary.
+
+
